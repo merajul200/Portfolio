@@ -1,0 +1,100 @@
+.home_logo{
+    width: 125px;
+    height: 125px;
+    /* margin: 31px; */
+}
+.logo_content{
+    background-color: gray;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.nav_button{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #007BFF;
+    transition: background-color 0.3s ease;
+}  
+.header{
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin: 20px;
+    color: cadetblue;
+    box-shadow: cornflowerblue;
+    font-weight: 500;
+    font-display: swap;
+    shape-rendering: geometricPrecision;
+    scroll-behavior: smooth;
+    background-color: rgba(23, 11, 37, 0.886);
+
+}       
+.About_me{
+    display: flex;
+    border: #007BFF solid 2px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: rgb(206, 205, 205);
+}
+.About_me_img{
+    width: 298px;
+    height: 455px;
+}
+.projects_1_img{
+    width: 431px;
+    height: 288px;
+}
+.projects_1{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: cadetblue;
+    margin: 20px;
+    border-radius: 10px;
+    border: #007BFF solid 2px;  
+}
+.University{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: cadetblue;
+    margin: 20px;
+    border-radius: 10px;  
+}
+.University_time{
+    margin-left: 20px;
+}
+.footer_content{
+    text-align:start;  
+
+}
+.expertise{
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+.footer_content_heading{
+    width: 154px;
+    height: 34px;
+    /* margin-left: 20px */
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: rgb(151, 145, 145) solid 2px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
